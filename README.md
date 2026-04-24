@@ -40,7 +40,7 @@ A fully responsive clone of the [Accredian Enterprise](https://enterprise.accred
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/accredian-enterprise.git
+git clone https://github.com/Riddhima277/accredian-enterprise.git
 cd accredian-enterprise
 
 # 2. Install dependencies
